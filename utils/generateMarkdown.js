@@ -1,8 +1,8 @@
-// Function to return a message if user doesn't want contributors
+// This will return a message if you do not want contributors 
 function renderContributingSection(confirmContributers, data) {
     if (!confirmContributers) {
       return `
-    Thank you for your interest in helping out; however, I will not be accepting contributions from third parties.
+    I am a lone wolf... I work alone... jk... thanks for your interest. 
       `;
     } else {
       return `
@@ -11,8 +11,8 @@ function renderContributingSection(confirmContributers, data) {
     }
   }
   
-  // Function that returns a license badge based on which license is passed in
-  // If there is no license, return an empty string
+  // This will return a license badge 
+  //If there isn't one it will provide nothing. 
   function renderLicenseBadge(license) { 
     if (license !== 'no license') {
       return `
@@ -23,8 +23,8 @@ function renderContributingSection(confirmContributers, data) {
     }
   }
   
-  // Function that returns the license link
-  // If there is no license, return an empty string
+  // This will return the license link. 
+  // If there is no license, it will return empty. 
   function renderLicenseLink(license) {
     if (license !== 'no license') {
     return `
@@ -35,8 +35,8 @@ function renderContributingSection(confirmContributers, data) {
     }
   }
   
-  // Function that returns the license section of README
-  // If there is no license, return an empty string
+  // This will return the license section of the ReadMe. 
+  // If there is no license it will return empty 
   function renderLicenseSection(license) {
     if (license !== 'no license') {
     return `
@@ -49,8 +49,7 @@ function renderContributingSection(confirmContributers, data) {
     }
    }
   
-   // Function that returns license in table of contents
-   // If there is no license, return an empty string
+   
   function renderLicenseTOC(license) {
     if (license !== 'no license') {
     return `
@@ -61,7 +60,7 @@ function renderContributingSection(confirmContributers, data) {
     }
    }
   
-  // Function to generate markdown for README
+  //This generates the markdown. 
   function generateMarkdown(data) {
     return `
     # ${data.title}
