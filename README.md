@@ -1,4 +1,4 @@
-                                                                           CONTENTS OF THIS FILE
+ CONTENTS OF THIS FILE
 Hello, as a developer myself. I thought it would be useful to create a readme.md generator to help people save time on creating this part of there development. 
 
 Introduction-
