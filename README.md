@@ -31,7 +31,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
            LINK TO VIDEO EXPLAINING AND DEMOING README GENERATOR: https://drive.google.com/file/d/1i-yD756_Ibe_SUFfAvNI3cTmBkNMfbiq/view                                                               
                                                                           
                                                                           
-                                                                          ![Readme generator](https://user-images.githubusercontent.com/104451480/180309191-216c95e3-1383-4daa-9e76-3800391abe12.PNG)
+
+
+![Readme generator](https://user-images.githubusercontent.com/104451480/180309191-216c95e3-1383-4daa-9e76-3800391abe12.PNG)
 
 ![readme generator2](https://user-images.githubusercontent.com/104451480/180309265-b36ba11a-6b7c-4e86-8796-408337a9848a.PNG)
 
